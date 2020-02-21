@@ -17,7 +17,7 @@ For the report building any basic reporting tool will work. The workshop will us
 Customized, Heroku ready version of CTFd: [https://github.com/jkuemerle/CTFd-RSAC2020](https://github.com/jkuemerle/CTFd-RSAC2020)
 
 ### OWASP Juice Shop ###
-Customized, Heroku ready version of OWASP Juice Shop: [https://bitbucket.org/jkuemerle/juice-shop-rsa-2020](https://bitbucket.org/jkuemerle/juice-shop-rsa-2020)
+Customized, Heroku ready version of OWASP Juice Shop: [https://github.com/jkuemerle/juice-shop-rsa-2020](https://github.com/jkuemerle/juice-shop-rsa-2020)
 
 ### Utility Scripts ###
 Are located in the [scripts](scripts) folder.
