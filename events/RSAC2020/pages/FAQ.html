@@ -1,0 +1,54 @@
+<style>
+
+.thumbnail {
+  max-width: 250px%;
+  max-height: 250px;
+}
+
+.lightbox {
+  display: none;
+
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 80%;
+  margin-top: 2%;
+}
+
+.lightbox:target {
+  outline: none;
+  display: block;
+}
+
+.indented {
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+</style>
+
+<div>
+  <div>
+      <ol>
+      <li><p><b>What is this?</b></p><p>This is a Capture The Flag (CTF) game that is designed to give you hands on experience with application security by challenging you to exploit vulnerabilities in an intentionally insecure application.</p></li>
+      <li><p><b>How do I check my score and where I stand?</b></p><p>Got to the <a href='/scoreboard'>Scoreboard</a> tab to check out every participant's score.</p></li> 
+      <li><p><b>How to I register for this CTF?</b></p><p>Go to <a href='/register'>Register</a>. Register an account by entering your details.</p></li>
+      <li><p><b>What happens after I register?</b></p><p>After you register, we will create an insecure web application for you.</p></li>
+        <div class='indented'>
+            <a href='#img2'>
+              <img src='' class='thumbnail'>
+            </a>
+            <a href='#_' class='lightbox' id='img2'>
+              <img src=''>
+            </a>
+        </div>
+  </div>
+</div>

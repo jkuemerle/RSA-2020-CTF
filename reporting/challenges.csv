@@ -1,0 +1,80 @@
+id,name,description,max_attempts,value,category,type,state,requirements
+1,Initialize,Modi quas eveniet quibusdam eum asperiores dignissimos.,0,50,Initialization,integrated,visible,
+2,Referrer URL Protection (#01),Voluptate beatae ad quod.,0,500,Admin,integrated,visible,{u'prerequisites': [1]}
+3,Cross Site Scripting Protection (#02),Facere sapiente alias sit.,0,500,Admin,integrated,visible,{u'prerequisites': [1]}
+4,Content Sniffing Protection (#03),Eum eaque ipsum aliquid.,0,500,Admin,integrated,visible,{u'prerequisites': [1]}
+5,HTTP Strict Transport Security (#04),Harum rerum adipisci voluptas enim aut.,0,500,Admin,integrated,visible,{u'prerequisites': [1]}
+6,Secure External Redirects (#05),Aut illo necessitatibus recusandae quidem rerum libero.,0,700,Admin,integrated,visible,{u'prerequisites': [1]}
+7,Strong Password Policies (#06),Molestias illum deleniti eum.,0,500,Admin,integrated,visible,{u'prerequisites': [1]}
+8,Secure Session Settings (#07),Beatae consequatur repellendus ullam sint quod qui.,0,700,Admin,integrated,visible,{u'prerequisites': [1]}
+9,Least Privilege (#08),Harum atque labore exercitationem.,0,1000,Admin,integrated,visible,{u'prerequisites': [1]}
+10,Deactivate Ex-Users (#09),Delectus hic hic ad mollitia explicabo.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+11,Two Factor Authentication (#10),Nisi nesciunt iusto voluptatem.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+12,Remote Site Settings (#11),Doloribus maiores numquam velit distinctio.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+13,Named Credentials (#12),Quis molestiae harum eum distinctio cupiditate.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+14,Profile Permissions (#13),Nam odit ipsa.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+15,Self Signed Certificate (#14),Sunt accusamus quibusdam rem ducimus.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+16,Verify SAML (#15),Minima debitis vero ratione perspiciatis iusto vero id.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+17,Email Security (#16),Similique aperiam perferendis eligendi totam ea.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+18,Salesforce Authenticator 2FA (#17),Necessitatibus alias ipsum enim.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+19,Content Security Policy (#18),Labore perspiciatis modi iste eius animi vero.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+20,Cross Origin Resource Sharing (#19),Facere nisi minima.,0,800,Admin,integrated,visible,{u'prerequisites': [1]}
+21,Challenge-1,Adipisci dicta temporibus esse.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+22,Challenge-2,Temporibus non ullam occaecati distinctio perspiciatis.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+23,Challenge-3,Pariatur nulla nam vel.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+24,Challenge-4,Nostrum vero earum.,0,1000,Developer,integrated,visible,{u'prerequisites': [1]}
+25,Challenge-5,Dicta voluptas quam.,0,800,Developer,integrated,visible,{u'prerequisites': [1]}
+26,Challenge-6,Autem facilis facilis neque id fugit voluptatibus nostrum.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+27,Challenge-7,Fugit repellendus illo omnis ex optio corporis corporis.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+28,Challenge-8,Consequatur occaecati distinctio aut.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+29,Challenge-9,Reiciendis odit sequi sit molestias accusantium.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+30,Challenge-10,Distinctio repellat nihil nemo sint ea.,0,500,Developer,integrated,visible,{u'prerequisites': [1]}
+31,Trivia001,Quae occaecati expedita aliquam repudiandae.,3,300,Trivia,standard,visible,
+32,Trivia002,Exercitationem sit ducimus animi necessitatibus facere.,3,300,Trivia,standard,visible,
+33,Trivia003,Inventore unde dolor accusamus.,3,300,Trivia,standard,visible,
+34,Trivia004,Totam ad totam nostrum atque autem.,3,500,Trivia,standard,visible,
+35,Trivia005,Repellat eligendi aspernatur quis assumenda provident molestiae provident.,4,500,Trivia,standard,visible,
+36,Trivia006,Aut deleniti corrupti perspiciatis cum illo.,4,300,Trivia,standard,visible,
+37,Trivia007,Iusto id sunt.,3,300,Trivia,standard,visible,
+38,Trivia008,Nostrum exercitationem itaque quae odio labore expedita.,3,300,Trivia,standard,visible,
+39,Trivia009,Dignissimos at aliquam odit.,3,300,Trivia,standard,visible,
+40,Trivia010,Placeat minima tenetur dicta doloremque dignissimos voluptates.,3,500,Trivia,standard,visible,
+41,Trivia011,Magni repellat quo quae vel ipsum nihil.,3,500,Trivia,standard,visible,
+42,Trivia012,Est occaecati hic reiciendis harum.,1,100,Trivia,standard,visible,
+43,Trivia013,Expedita soluta reprehenderit culpa.,1,100,Trivia,standard,visible,
+44,Trivia014,Totam impedit quam at id.,1,100,Trivia,standard,visible,
+45,Trivia015,Non maiores at laborum.,1,100,Trivia,standard,visible,
+46,Trivia016,Occaecati eveniet vero eveniet temporibus libero.,1,100,Trivia,standard,visible,
+47,Trivia017,Nulla porro nemo.,1,100,Trivia,standard,visible,
+48,Trivia018,Quod deleniti excepturi deleniti deleniti beatae accusamus.,1,100,Trivia,standard,visible,
+49,Trivia019,Architecto porro asperiores exercitationem tempora id sit.,1,100,Trivia,standard,visible,
+50,Trivia020,Illo cumque itaque sequi impedit provident culpa.,1,100,Trivia,standard,visible,
+51,Trivia021,Facilis fugiat vitae inventore dolorum.,1,100,Trivia,standard,visible,
+52,Trivia022,Sit eaque iste repudiandae quod sit libero.,3,500,Trivia,standard,visible,
+53,Trivia023,Eaque vitae voluptas officiis.,3,500,Trivia,standard,visible,
+54,Trivia024,Possimus porro dolorum ullam officiis pariatur inventore dolore.,1,300,Trivia,standard,visible,
+55,Trivia025,Fugit earum occaecati totam.,3,500,Trivia,standard,visible,
+56,Trivia026,Sit soluta dolorum.,3,500,Trivia,standard,visible,
+57,Trivia027,Ullam quod nesciunt tenetur voluptates amet.,1,300,Trivia,standard,visible,
+58,Trivia028,Voluptas eligendi dolore aut sapiente et voluptates iste.,3,100,Trivia,standard,visible,
+59,Trivia029,Iusto consequuntur autem veritatis.,1,100,Trivia,standard,visible,
+60,Trivia030,Maiores accusamus eaque.,3,100,Trivia,standard,visible,
+61,Trivia031,A a cupiditate molestiae aperiam necessitatibus.,3,100,Trivia,standard,visible,
+62,Trivia032,Odit dignissimos molestias necessitatibus nulla omnis.,3,100,Trivia,standard,visible,
+63,Trivia033,Sequi fuga optio saepe.,3,100,Trivia,standard,visible,
+64,Trivia034,Commodi ex eum sit.,3,100,Trivia,standard,visible,
+65,Trivia035,Ut dolores voluptates eos.,3,100,Trivia,standard,visible,
+66,Trivia036,Facere tempore laboriosam doloribus quos.,3,100,Trivia,standard,visible,
+67,Trivia037,Quo libero minus rerum veritatis sint esse.,3,100,Trivia,standard,visible,
+68,Trivia038,Iste nemo quam pariatur maiores.,3,100,Trivia,standard,visible,
+69,Trivia039,Sequi consectetur quis cumque.,2,100,Trivia,standard,visible,
+70,Trivia040,Quod sint delectus laboriosam iusto totam voluptate perspiciatis.,1,100,Trivia,standard,visible,
+71,Trivia041,Velit nulla aspernatur possimus beatae dolores ea itaque.,2,100,Trivia,standard,visible,
+72,Trivia042,Pariatur possimus laudantium quo molestiae non cumque.,3,500,Trivia,standard,visible,
+73,Trivia043,Sapiente nihil ipsa enim ex animi.,3,300,Trivia,standard,visible,
+74,Trivia044,Mollitia consequuntur commodi fuga qui facilis.,4,500,Trivia,standard,visible,
+75,Trivia045,Vero velit cum tempora.,2,100,Trivia,standard,visible,
+76,Trivia046,Magni at nobis quam aliquam.,3,100,Trivia,standard,visible,
+77,Bonus Admin Challenge,Expedita occaecati repellat similique veniam excepturi ipsam.,0,1000,Bonus,standard,visible,"{u'prerequisites': [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 1]}"
+78,Visit Administrators Booth,Dolores laboriosam recusandae sapiente a quis quaerat.,0,250,Bonus,standard,visible,
+79,Visit Developer Booth,Quaerat velit vitae atque aut.,0,250,Bonus,standard,visible,

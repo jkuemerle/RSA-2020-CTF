@@ -9,7 +9,7 @@ To perform command line configuration of Heroku install the [Heroku CLI](https:/
 
 To prepare in advance, clone the this repository and the below repositories. If you will be working using local Docker you can build both the CTFd Docker Compose definition and the OWASP Juice Shop Docker image.
 
-For the report building any basic reporting tool will work. The workshop will use the [Elasticsearch, Logstash, Kibana (ELK) Docker Image](https://github.com/spujadas/elk-docker)  
+For the report building any basic reporting tool will work. The workshop will use a custom version of the [Elasticsearch, Logstash, Kibana (ELK) Docker Image](https://github.com/jkuemerle/elk-docker)  
 
 ## Repositories ##
 
@@ -25,14 +25,45 @@ Are located in the [scripts](scripts) folder.
 #### Juice Shop Challenge Extractor ####
 
 Extracts challenges from a running Juice Shop instance.
+```
+npm install -g juice-shop-ctf-cli
+juice-shop-ctf
+```
+
+* CTF framework: CTFd
+* Juice Shop URL: http://localhost:3290 
+* Secret key: https://raw.githubusercontent.com/jkuemerle/juice-shop-rsa-2020/master/ctf.key
+* Paid text hints
+* No hint URLs
+
+Unzip file in the event subdirectory.
+
+#### JSON to YAML Converter ####
+Converts exported Juice Shop CTFd data (Challenges/Flags/Hints) to YAML file.
+
+From scripts folder
+```
+node yfromjs.js -c "..\events\RSAC2020\db\challenges.json" -f "..\events\RSAC2020\db\flags.json" -h "..\events\RSAC2020\db\hints.json" -o "..\events\RSAC2020\challenges.yml"
+```
 
 #### YAML to Challenge Converter ####
 
-Converts YAML document to Challenges/Flags/Hints
+Converts YAML document to Challenges/Flags/Hints and updates any Pages
+
+From scripts folder
+```
+node ctfdFromYaml.js -o "..\events\RSAC2020\db" -p "..\events\RSAC2020\pages" -i "..\events\RSAC2020\challenges.yml"
+```
 
 #### Create Event Zip File ####
 
-Creates an event specific zip file for an instance
+Creates an event specific zip file for an instance.
+
+From scripts folder
+```
+node createExport.js -i "..\events\RSAC2020" -o "..\events\RSAC2020\export.zip"
+```
+
 
 #### Build Script ####
 
@@ -53,3 +84,9 @@ Change application stack to container
 ````
 heroku stack:set container
 ````
+
+## Reporting ##
+Kibana: http://localhost:5601/app/kibana
+
+Google sheets, import CSVs, delete id & team_id column from Solves and Solutions
+
