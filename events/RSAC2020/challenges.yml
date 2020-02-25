@@ -8,7 +8,7 @@
   flags:
     - type: static
       content: b3dc926bd51f79564b11ab66497983fca92b992a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -27,7 +27,7 @@
   flags:
     - type: static
       content: a7b7b4035a0789da833d81b53b7cd50c53580721
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -44,7 +44,7 @@
   flags:
     - type: static
       content: f3752e75ac2e0f596acfce590cf7a6deb76dbd6a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -63,7 +63,7 @@
   flags:
     - type: static
       content: 672074b77dae80111a24b2ae8e887e8ae3edc9b6
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -80,7 +80,7 @@
   flags:
     - type: static
       content: fd918a56a74f376f8698c17ff0fcae682e56cb2e
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -97,7 +97,7 @@
   flags:
     - type: static
       content: eeea6ee3d12880ba7c8c241a73be8bf3fd8b35ca
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -114,7 +114,7 @@
   flags:
     - type: static
       content: fc95e3dad0bbf7a089af5fc7da9f68d8345e9763
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -133,7 +133,7 @@
   flags:
     - type: static
       content: a983a06c515d34d4c15ab51e3fd630f24d4e6b27
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -150,7 +150,7 @@
   flags:
     - type: static
       content: 10dbd4afd77da5bcb1826c9c4350f66ab572234a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -167,7 +167,7 @@
   flags:
     - type: static
       content: 2eb88ab5e95ffa4ae960057dc9e7a2bba3d7b51f
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -186,7 +186,7 @@
   flags:
     - type: static
       content: ba2a26d3cdf12bd1661a8d4de6d1f86340ef2b09
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: We might have failed to take this out of our code properly.
@@ -201,7 +201,7 @@
   flags:
     - type: static
       content: c79d8db800b2c32e8efcb8be314dfd7a6c8d5f90
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: You have to find a way to beat the whitelist of allowed redirect URLs.
@@ -216,7 +216,7 @@
   flags:
     - type: static
       content: 4b054509d185c889221f23b7f62fe829446e0bf3
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -235,7 +235,7 @@
   flags:
     - type: static
       content: 9680e3d8c2a42e18230e2b92190c1a576637e827
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -253,7 +253,7 @@
   flags:
     - type: static
       content: 18c21c38722b35ee791d85e50acb6d9fc5ebc988
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: You literally need to make the shop owe you any amount of money.
@@ -268,7 +268,7 @@
   flags:
     - type: static
       content: a4487c7a03c9606b60434968b815b915133715ee
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -285,7 +285,7 @@
   flags:
     - type: static
       content: 901c7cf38ccf54ff24cce634817dc305d9f3de69
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -302,7 +302,7 @@
   flags:
     - type: static
       content: 3fff1645266df7ffba51d524f6a3a86673abcb40
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -319,7 +319,7 @@
   flags:
     - type: static
       content: 4db69872612770e2da3d80e8cf3465af239fbe35
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: It is just slightly harder to find than the score board link.
@@ -337,7 +337,7 @@
   flags:
     - type: static
       content: 65a176cc0285d273d7aeef29a0d9a6191e2f033d
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -357,7 +357,7 @@
   flags:
     - type: static
       content: 73c2da9d76f5816647b502bce378520b9cf3f47c
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -376,7 +376,7 @@
   flags:
     - type: static
       content: 2d3443934157c6c3fa206088cede60368c7af7b0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Report one of four possible answers via the "Contact Us" form.
@@ -393,7 +393,7 @@
   flags:
     - type: static
       content: 7dfe6ca585d8e71a524dcec992ed936353630fe8
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -412,7 +412,7 @@
   flags:
     - type: static
       content: 85ca893aed312868ae902ba006d81fc09ce69b22
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -431,7 +431,7 @@
   flags:
     - type: static
       content: 1163c3c2ee41c54e65865510db9ad1ccd61c2f25
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -448,7 +448,7 @@
   flags:
     - type: static
       content: dc7836d0a5fb40d5577363f86216c9c383a1b54c
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -465,7 +465,7 @@
   flags:
     - type: static
       content: c2c869cfee9b7148f375c13edefd1cb03b9d2af3
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -484,7 +484,7 @@
   flags:
     - type: static
       content: 0230a87a225584278dad332d41e3e873866870cf
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Look out for a tweet praising new functionality of the web shop.
@@ -501,7 +501,7 @@
   flags:
     - type: static
       content: e0a0c0a3aa20a120d7d25323b3d74f4b95ef55ce
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -520,7 +520,7 @@
   flags:
     - type: static
       content: 2fb8f2facf5cb93d2526e206a23a81cb8bf811cf
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -537,7 +537,7 @@
   flags:
     - type: static
       content: 2443e721c594263db97ef0bf3115adbc87c82342
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -556,7 +556,7 @@
   flags:
     - type: static
       content: 09c7aedf8452dac6d7a20073cf7dffa80b3f851f
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -576,7 +576,7 @@
   flags:
     - type: static
       content: dfd40d0606ffa82876b9c10daec47b71856749ac
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -595,7 +595,7 @@
   flags:
     - type: static
       content: b74b5da6ef4c6886c3cc05357b191271f42faa41
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -614,7 +614,7 @@
   flags:
     - type: static
       content: 206903462360c55423778435260fba47993b3fb2
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -633,7 +633,7 @@
   flags:
     - type: static
       content: 4259d0ef41ddb9cebe7d8b9132a25267fe144a7a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: You should listen to MC's hit song "Protect Ya Passwordz".
@@ -655,7 +655,7 @@
   flags:
     - type: static
       content: c171f65b690d7430b832848ff604e30f4b9a510c
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -675,7 +675,7 @@
   flags:
     - type: static
       content: d9def4efb9c7d6e4f0e453c3e0b5892103d14065
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -695,7 +695,7 @@
   flags:
     - type: static
       content: 32ad127140220c05c95f83d4d9f7355045eb8633
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -715,7 +715,7 @@
   flags:
     - type: static
       content: 540dce099964d35ceb11b67a8305f549f79326c7
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -735,7 +735,7 @@
   flags:
     - type: static
       content: 0056eca7e7b92fdc3189e9fdeb1e2246b3b74bed
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -754,7 +754,7 @@
   flags:
     - type: static
       content: 8866a0b8c31f7630e1a8d4469144ca02bd9d5d1d
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -771,7 +771,7 @@
   flags:
     - type: static
       content: 9af31cbbd32d25bc026551358cd7c44a2f24d698
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -788,7 +788,7 @@
   flags:
     - type: static
       content: 7acdc1bc45439a6c9a30f146b69686eea1b5dfee
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Take a close look on how the $where query operator works in MongoDB.
@@ -805,7 +805,7 @@
   flags:
     - type: static
       content: d237cfe93180d04675b7b25f7c384f5e377aa5a7
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -825,7 +825,7 @@
   flags:
     - type: static
       content: da97d1d26fd3d9fc87ba1e69b62be8c952e4f02d
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -845,7 +845,7 @@
   flags:
     - type: static
       content: f6e6d4b158174fec7532ac8778e25b494c7783b5
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -864,7 +864,7 @@
   flags:
     - type: static
       content: 11f274220c4fab91e60568a62d57618847404e26
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -883,7 +883,7 @@
   flags:
     - type: static
       content: 642c81a5ad019f98066cb100cde9d70f6cb2299a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -902,7 +902,7 @@
   flags:
     - type: static
       content: 5718cc66d12e83e0db21d7e6bcd60f065a06338b
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -921,7 +921,7 @@
   flags:
     - type: static
       content: e7f4dd11f69cbab148ee9727446e9babfb363d32
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -941,7 +941,7 @@
   flags:
     - type: static
       content: 52bb12ed38fffe7bf8276a872fdfdc9271503ea2
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: The leverage point for this challenge is the deprecated B2B interface.
@@ -958,7 +958,7 @@
   flags:
     - type: static
       content: 14d635869ddf13b0fa5d9363510c304783f9dc73
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -977,7 +977,7 @@
   flags:
     - type: static
       content: 5acc10c3695295ba7411a2d7d986adfc26f547e0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -996,7 +996,7 @@
   flags:
     - type: static
       content: 9cd140fee0d065eaa3457e0021509d1162d5f697
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1015,7 +1015,7 @@
   flags:
     - type: static
       content: f282158451a83042374762dcd76be9285f9ff1e0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1032,7 +1032,7 @@
   flags:
     - type: static
       content: c4af7779c030ec360b4207ad083e60a221cb0e98
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1051,7 +1051,7 @@
   flags:
     - type: static
       content: aef542695d4c4a2867b0de102ab497beb9f65cf0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1071,7 +1071,7 @@
   flags:
     - type: static
       content: 04c668f96b9ef17d3206ccb43b08e597c50088b5
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1088,7 +1088,7 @@
   flags:
     - type: static
       content: c916132a61cd4b2b885224750d370484d3904834
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1107,7 +1107,7 @@
   flags:
     - type: static
       content: b0050e5e352a0ec0513545c3e4d44d9d00469961
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1124,7 +1124,7 @@
   flags:
     - type: static
       content: 6b564b1973fd9c7a0910783c30feaa017275c5d0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Assign the unassignable.
@@ -1141,7 +1141,7 @@
   flags:
     - type: static
       content: 14b55586c8f528fdf7d0690725b6c46573628a06
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1160,7 +1160,7 @@
   flags:
     - type: static
       content: cde4e7ab8e613e531988d254f13bc4a59ef6191f
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1180,7 +1180,7 @@
   flags:
     - type: static
       content: bd5637b87d099bb913b59ee6f5957fe231c03936
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1200,7 +1200,7 @@
   flags:
     - type: static
       content: 01825adaf35f0556af0c3dc8846153179a80e9b5
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1220,7 +1220,7 @@
   flags:
     - type: static
       content: a487ecaa8920057c64531db211058e51b4f4f4d8
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1239,7 +1239,7 @@
   flags:
     - type: static
       content: 3784e26b24f26c544449ec030db8c047df82347c
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1259,7 +1259,7 @@
   flags:
     - type: static
       content: e6d675790f20e5c800c0f79aef1600e14e5c90c4
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1276,7 +1276,7 @@
   flags:
     - type: static
       content: 5b36c22bcbc58f17897bc70f6f2807a0b8eda0a0
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Punctuality is the politeness of kings.
@@ -1294,7 +1294,7 @@
   flags:
     - type: static
       content: 398b009c2c38a8a5a1b9ab2df006049ecd1f9149
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: The search for a personal identity is the life of a man.
@@ -1309,7 +1309,7 @@
   flags:
     - type: static
       content: 28ef36c4289006be6b6a8176aa43cc51edc94ab9
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Reverse the Bad and it gets Good again.
@@ -1327,7 +1327,7 @@
   flags:
     - type: static
       content: 7c22765bca6a63751f7e47d8aa04f3659e9c7865
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: This challenge will make you go after a needle in a haystack.
@@ -1345,7 +1345,7 @@
   flags:
     - type: static
       content: 199769f47db0698bcb22b7d4a287670455fb94b9
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1365,7 +1365,7 @@
   flags:
     - type: static
       content: e775b282a180f00441de654260412c6307482ae8
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1382,7 +1382,7 @@
   flags:
     - type: static
       content: be1f750589f499961743147d6c1f2e645e97268e
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1402,7 +1402,7 @@
   flags:
     - type: static
       content: 54872d0c0b18a4563090f2e58610da67e065d273
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1422,7 +1422,7 @@
   flags:
     - type: static
       content: c62766ba8849e2a057a7668a0846dd7f5557cf1a
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1442,7 +1442,7 @@
   flags:
     - type: static
       content: 74e4df50fb0d36ec98d28a637c33defec782fdf6
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1462,7 +1462,7 @@
   flags:
     - type: static
       content: 01a89b42fd941e1132617a7f578acc4f65c56336
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1483,7 +1483,7 @@
   flags:
     - type: static
       content: e40664dfa6ef2f8042fa1df1a4c4e880f2262771
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1501,7 +1501,7 @@
   flags:
     - type: static
       content: 96e2450450c67f9ea4c19bcd000ef7f8a9e8b537
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1518,7 +1518,7 @@
   flags:
     - type: static
       content: 77f83eb648a4508a7fb733488010e6e60aaf2904
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-
@@ -1535,7 +1535,7 @@
   flags:
     - type: static
       content: e654e0f5ffc6a30f221a8be0c94708477202ca31
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: Now we do ask you to confirm that you read it carefully.
@@ -1550,7 +1550,7 @@
   flags:
     - type: static
       content: f54340f5f9d75882bf434d86f4fec5b084892d16
-      data: null
+      data: case_insensitive
   hints:
     - type: standard
       content: >-

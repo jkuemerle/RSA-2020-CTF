@@ -22,6 +22,7 @@ Customized, Heroku ready version of OWASP Juice Shop: [https://github.com/jkueme
 ## Reporting ##
 Customized ELK: [https://github.com/jkuemerle/elk-docker](https://github.com/jkuemerle/elk-docker)
 
+
 ## Self Provision ##
 Utility for self provisioning: [https://github.com/jkuemerle/rsa-ctf-provision](https://github.com/jkuemerle/rsa-ctf-provision)
 
@@ -93,8 +94,16 @@ Builds the CTFd instance.
 
 Custom integrated challenge plugin for CTFd [https://github.com/salesforce/integrated_challenge](https://github.com/salesforce/integrated_challenge)
 
+### Extension and Customization ###
+Starter code is in /plugin
 
-## Instructions ##
+
+## Reporting ##
+Kibana: http://localhost:5601/app/kibana
+
+Google sheets, import CSVs, delete id & team_id column from Solves and Solutions
+
+## Notes ##
 
 Create Heroku application for CTFd: 
 ```
@@ -105,9 +114,3 @@ Change application stack to container
 ````
 heroku stack:set container
 ````
-
-## Reporting ##
-Kibana: http://localhost:5601/app/kibana
-
-Google sheets, import CSVs, delete id & team_id column from Solves and Solutions
-
